@@ -1,0 +1,7 @@
+C:\Users\boss_\source\repos\string2int\string2int\bin\Debug\string2int.exe.config
+C:\Users\boss_\source\repos\string2int\string2int\bin\Debug\string2int.exe
+C:\Users\boss_\source\repos\string2int\string2int\bin\Debug\string2int.pdb
+C:\Users\boss_\source\repos\string2int\string2int\obj\Debug\string2int.csprojResolveAssemblyReference.cache
+C:\Users\boss_\source\repos\string2int\string2int\obj\Debug\string2int.csproj.CoreCompileInputs.cache
+C:\Users\boss_\source\repos\string2int\string2int\obj\Debug\string2int.exe
+C:\Users\boss_\source\repos\string2int\string2int\obj\Debug\string2int.pdb
